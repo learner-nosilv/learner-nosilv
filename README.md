@@ -16,7 +16,23 @@ Feel free to explore my github and reach out if you’d like to connect ! ☺️
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learner-nosilv&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&custom_title=GitHub+Stats&title_color=FFFFFF&icon_color=ffbb00&hide_border=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-nosilv&langs_count=6&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&hide_border=true">
  </p>  
- 
+
+ <table border="0">
+  <tr>
+    <th><code> LeetCode </code></th>
+    <th><code> BaekJoon </code> & <code> Programmers </code></th>
+  </tr>
+  <tr>
+    <td rowspan='2'>11<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-nosilv&langs_count=6&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&hide_border=true"></td>
+    <td>22<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-nosilv&langs_count=6&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&hide_border=true"></td>
+  </tr>
+  <tr>
+    <td>33<img height="180em" src="https://raw.githubusercontent.com/learner-nosilv/PROGRAMMERS-BADGE/master/static/result.svg"></td>
+    <!--<td>1</td>-->
+  </tr>
+</table>
+
+
 ### 📫　Contacts
 티스토리 블로그 지메일 
 깃허브스텍 백준 
