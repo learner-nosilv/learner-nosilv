@@ -2,8 +2,8 @@
 
 # Nosilv ∣ ` BE ` 👩🏻 🇰🇷
 🐥 Hello !　I’m **`Nosilv Kim`**, a backend developer.  
-<a href="https://wakatime.com/@nosilv"><img align="right" src="https://nosilv-wakatime-ho-64.deno.dev/api/badge?style=for-the-badge&label=Code+Hours&labelColor=ffbb00&color=ffbb00" alt="Total time coded since Jan 23 2025"></a>
 I love the **`passion 🔥`** of this dev-world.  
+<a href="https://wakatime.com/@nosilv"><img align="right" src="https://nosilv-wakatime-ho-64.deno.dev/api/badge?style=for-the-badge&label=Code+Hours&labelColor=ffbb00&color=ffbb00" alt="Total time coded since Jan 23 2025"></a>
 Feel free to explore my github and reach out if you’d like to connect ! ☺️
 
 ### 🛠️　Skills
