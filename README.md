@@ -23,7 +23,7 @@ Feel free to explore my github and reach out if you’d like to connect ! ☺️
     <th><code> BaekJoon </code></th>
   </tr>
   <tr>
-    <td rowspan='4'><img height="200em" src="https://leetcard.jacoblin.cool/nosilv?theme=dark&ext=activity&border=0&radius=20"> </td>
+    <td rowspan='4'><img height="300em" src="https://leetcard.jacoblin.cool/nosilv?theme=dark&ext=activity&border=0&radius=20"> </td>
     <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nosilver"></td>
   </tr>
   <tr>
