@@ -17,22 +17,20 @@ Feel free to explore my github and reach out if you’d like to connect ! ☺️
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-nosilv&langs_count=6&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&hide_border=true">
  </p>  
 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
-
-
  <table border="0">
   <tr>
     <th><code> LeetCode </code></th>
-    <th><code> BaekJoon </code> & <code> Programmers </code></th>
+    <th><code> BaekJoon </code></th>
   </tr>
   <tr>
-    <td rowspan='2'><img height="300em" src="https://leetcard.jacoblin.cool/nosilv?theme=dark&ext=activity&border=0&radius=20"> </td>
-    <td><img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nosilver"></td>
+    <td rowspan='4'><img height="300em" src="https://leetcard.jacoblin.cool/nosilv?theme=dark&ext=activity&border=0&radius=20"> </td>
+    <td><img height="120em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nosilver"></td>
   </tr>
   <tr>
-    <td><img height="150em" src="https://raw.githubusercontent.com/learner-nosilv/PROGRAMMERS-BADGE/master/static/result.svg"></td>
-    <!--<td>1</td>-->
+    <th><code> Programmers </code></th>
+  </tr>
+   <tr>
+    <td><img height="120em" src="https://raw.githubusercontent.com/learner-nosilv/PROGRAMMERS-BADGE/master/static/result.svg"></td>
   </tr>
 </table>
 
