@@ -23,14 +23,14 @@ Feel free to explore my github and reach out if you’d like to connect ! ☺️
     <th><code> BaekJoon </code></th>
   </tr>
   <tr>
-    <td rowspan='4'><img height="300em" src="https://leetcard.jacoblin.cool/nosilv?theme=dark&ext=activity&border=0&radius=20"> </td>
-    <td><img height="120em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nosilver"></td>
+    <td rowspan='4'><img src="https://leetcard.jacoblin.cool/nosilv?theme=dark&ext=activity&border=0&radius=20"> </td>
+    <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nosilver"></td>
   </tr>
   <tr>
     <th><code> Programmers </code></th>
   </tr>
    <tr>
-    <td><img height="120em" src="https://raw.githubusercontent.com/learner-nosilv/PROGRAMMERS-BADGE/master/static/result.svg"></td>
+    <td><img src="https://raw.githubusercontent.com/learner-nosilv/PROGRAMMERS-BADGE/master/static/result.svg"></td>
   </tr>
 </table>
 
