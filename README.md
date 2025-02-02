@@ -37,8 +37,7 @@ Feel free to explore my github and reach out if you’d like to connect ! ☺️
 
 
 ### 📫　Contacts
-티스토리 블로그 지메일 
-깃허브스텍 백준 
+티스토리 블로그 지메일
 
 <!--START_SECTION:waka-->
 
